@@ -194,7 +194,7 @@ Total Price: ₹${total}`;
 
     // Change to your WhatsApp number
     let whatsappLink =
-"https://wa.me/919999999999?text=" + encodeURIComponent(message);
+"https://wa.me/999999999?text=" + encodeURIComponent(message);
 
     document.getElementById("whatsappBtn").href = whatsappLink;
 
